@@ -10,9 +10,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Run json-server
 ```
-npm run build
+json-server --watch data/product_list.json
 ```
 
 ### Customize configuration
